@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247679945265",
+    "project_id": "shopping-cart-f6372",
+    "storage_bucket": "shopping-cart-f6372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247679945265:android:8ac95ccab0b649a8066310",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247679945265-64u4jp14ooso463ju9i2761bk11rr0nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgVo1gemryjJGaR0ceqpQIeI-KQ8Ngxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247679945265-64u4jp14ooso463ju9i2761bk11rr0nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
